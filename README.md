@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Quiz App - Customizable Python Quiz
 
 ## Description
@@ -21,4 +20,4 @@ It asks multiple choice questions loaded from a JSON file, tracks your score, an
 =======
 # Quiz
 Python terminal quiz app with multiple-choice questions and easy customization.
->>>>>>> a0df3ce0e7d0cd3a05337e46ba0c26b16d751650
+
